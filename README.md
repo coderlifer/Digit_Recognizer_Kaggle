@@ -1,6 +1,6 @@
 # Digit_Recognizer_Kaggle
 
-Tensorflow implemention of CNN for Kaggle competition: [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/overview).
+Tensorflow implemention of a CNN model for Kaggle competition: [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/overview).
 
 
 ## Result
