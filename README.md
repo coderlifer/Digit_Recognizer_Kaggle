@@ -18,7 +18,7 @@ Tensorflow implemention of a CNN model for Kaggle competition: [Digit Recognizer
 
 2. Training, validation and inference.
 
-    Modify the [code](http://git.oschina.net/DavisWade/digit_recognizer/blob/master/train.py?dir=0&filepath=train.py&oid=c73ade663356bf05fbff5cc8dcdac5fe4839f1b5&sha=643e20e7e07b08df62c395baaaf4bee39444483b#L231) bellow based your own setting.
+    Modify the [code](https://github.com/watsonyanghx/Digit_Recognizer_Kaggle/blob/master/train.py#L230) bellow based your own setting.
 
     ```shell
     hps = net.HParams(data_size=34000,
